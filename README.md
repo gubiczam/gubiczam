@@ -11,25 +11,42 @@ Beside improving myself I also teach others. 📚
 <a href="https://instagram.com/gubicza." target="blank"><img align="center" src="instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
-<a href= "https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gubiczam&theme=vision-friendly-dark&show_icons=true" />
-</a>
-<br>
-<a href= "https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gubiczam&langs_count=4&theme=vision-friendly-dark" />
-</a>
-<br>
-<br>
-<br>
-[![GitHub Streak](https://streak-stats.demolab.com/?gubiczam=DenverCoder1)](https://git.io/streak-stats)
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![PR](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![AE](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
-![PS](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=gubiczam&theme=dracula&hide_border=true&date_format=%5BY%20%5DM%20j">
+ </p>
+ 
+  ```tsx
+  const [skill, setSkill] = useState(0)
+    setSkill(99) //on better days
+  ```
+
+<br>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feherszabolcs&size_weight=0.5&count_weight=0.5&layout=compact&theme=github_dark">
+ </p>
+
+ <br>
+<div align="center">
+
+![My Skills](https://skillicons.dev/icons?i=js,html,cs,angular,git,ts,react,vite)
+ 
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
