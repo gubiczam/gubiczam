@@ -1,4 +1,4 @@
-# Hi, I'm Gubiczam 👋
+# Hi, I'm Milan Gubicza 👋
 
 Frontend intern & BME student  
 Passionate about clean interfaces, JavaScript/TypeScript, and AI
