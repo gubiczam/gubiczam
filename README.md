@@ -1,4 +1,4 @@
-### Hi, I'm [Name] 👋
+### Hi, I'm Milan👋
 
 I'm a CS student at BME and a Fullstack Developer with a background in enterprise development and technical instruction.
 
